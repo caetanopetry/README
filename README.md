@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Caetano Petry!
 
-Tenho **17 anos** e sou estudante de **Desenvolvimento de Sistemas** no SENAI Sul, em Joinville-SC.  
+Tenho **16 anos** e sou estudante de **Desenvolvimento de Sistemas** no SENAI Sul, em Joinville-SC.  
 Sou apaixonado por tecnologia desde pequeno e estou **sempre em busca de conhecimento**, aprendendo novas habilidades e explorando diferentes áreas do desenvolvimento.
 
 Tenho experiência e gosto de trabalhar com **Python**, **HTML** e **CSS**, e estou constantemente buscando evoluir tanto no lado técnico quanto pessoal.
